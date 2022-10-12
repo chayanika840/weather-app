@@ -13,7 +13,7 @@ body {
 }
 
 .main-content {
-    flex-grow: 1;
+    flex-grow: 5;
 }
 
 footer {
@@ -45,7 +45,7 @@ header a {
 
 input {
     border: 1px solid #cccccc;
-    padding: 8px;
+    padding: 10px;
 }
 
 button {
