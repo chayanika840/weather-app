@@ -4,7 +4,7 @@ body {
 
     /* centering the elem */
     max-width: 50px;
-    margin: 0 auto;
+    margin: 2 auto;
     padding: 0 60px;
 
     display: flex;
