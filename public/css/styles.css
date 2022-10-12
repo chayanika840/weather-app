@@ -1,5 +1,5 @@
 body {
-    color: #333333;
+    color: #22222;
     font-family: arial;
 
     /* centering the elem */
@@ -9,15 +9,15 @@ body {
 
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 80vh;
 }
 
 .main-content {
-    flex-grow: 1;
+    flex-grow: 5;
 }
 
 footer {
-    color: #888888;
+    color: #888886;
     border-top: 1px solid #eeeeee;
     margin-top: 16px;
     padding: 16px 0;
@@ -29,12 +29,13 @@ header {
 }
 
 h1 {
-    font-size: 64px;
-    margin-bottom: 5px;
+
+    font-size: 56px;
+    margin-bottom: 16px;
 }
 
 header a {
-    color: #888888;
+    color: #888886;
     margin-right: 16px;
     text-decoration: none;
 }
@@ -45,12 +46,12 @@ header a {
 
 input {
     border: 1px solid #cccccc;
-    padding: 8px;
+    padding: 10px;
 }
 
 button {
     cursor: pointer;
-    border: 1px solid #888888;
+    border: 1px solid #888886;
     background: #888888;
     color: white;
     padding: 8px;
